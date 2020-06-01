@@ -14,3 +14,15 @@ Libs, tricks and tips for swift run in raspberry pi
 ## Sensors
 
 - [Ultrasonic - HCSR04](https://github.com/konifer44/HCSR04.swift)
+
+
+# ReboticLinks
+
+
+## Hexapod
+
+### Body parts
+
+- [Model 1](https://www.thingiverse.com/thing:3270159)
+- [Model 2](https://www.thingiverse.com/thing:3377798)
+- [Model 3](https://www.thingiverse.com/thing:1080281)
